@@ -5064,11 +5064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnv\\source\\repos\\codeSpark\\codeSpark.csproj",
+      "projectUniqueName": "C:\\Users\\johnv\\Documents\\GitHub\\codeSpark\\codeSpark\\codeSpark.csproj",
       "projectName": "codeSpark",
-      "projectPath": "C:\\Users\\johnv\\source\\repos\\codeSpark\\codeSpark.csproj",
+      "projectPath": "C:\\Users\\johnv\\Documents\\GitHub\\codeSpark\\codeSpark\\codeSpark.csproj",
       "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnv\\source\\repos\\codeSpark\\obj\\",
+      "outputPath": "C:\\Users\\johnv\\Documents\\GitHub\\codeSpark\\codeSpark\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5089,8 +5089,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\johnv\\source\\repos\\codeSpark_ Utility\\codeSpark_Utility.csproj": {
-              "projectPath": "C:\\Users\\johnv\\source\\repos\\codeSpark_ Utility\\codeSpark_Utility.csproj"
+            "C:\\Users\\johnv\\Documents\\GitHub\\codeSpark\\codeSpark_ Utility\\codeSpark_Utility.csproj": {
+              "projectPath": "C:\\Users\\johnv\\Documents\\GitHub\\codeSpark\\codeSpark_ Utility\\codeSpark_Utility.csproj"
             }
           }
         }

@@ -1,0 +1,26 @@
+{"_id":{"$oid":"5e684edeb376b01dd0a38c17"},"id":"1","userId":"97","schoolDistrict":"Fraser Meadow Garlic","students":"10,64,74,72"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c18"},"id":"2","userId":"95","schoolDistrict":"Simpson's Rosinweed","students":"18,8,3,58"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c19"},"id":"3","userId":"94","schoolDistrict":"Painted Milkvetch","students":"67,24,29,85"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c1a"},"id":"4","userId":"93","schoolDistrict":"Springflowering Goldenrod","students":"41,65,68,70"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c1b"},"id":"5","userId":"90","schoolDistrict":"Horsehair Lichen","students":"71,95,75,23"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c1c"},"id":"6","userId":"87","schoolDistrict":"Piedmont Bladderwort","students":"35,6,87,76"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c1d"},"id":"7","userId":"85","schoolDistrict":"Slender Buckwheat","students":"26,32,25,60"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c1e"},"id":"8","userId":"84","schoolDistrict":"Tropical Bristlegrass","students":"81,84,83,20"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c1f"},"id":"9","userId":"80","schoolDistrict":"Yellow Himalayan Raspberry","students":"15,92,51,91"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c20"},"id":"10","userId":"76","schoolDistrict":"Purple Locoweed","students":"61,2,50,13"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c21"},"id":"11","userId":"74","schoolDistrict":"Sneezeweed","students":"14,12,98,53"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c22"},"id":"12","userId":"67","schoolDistrict":"Racomitrium Moss","students":"62,63,39,94"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c23"},"id":"13","userId":"66","schoolDistrict":"California Greenbrier","students":"22,7,1,78"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c24"},"id":"14","userId":"64","schoolDistrict":"Slash Pine","students":"52,88,37,54"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c25"},"id":"15","userId":"59","schoolDistrict":"Azure Penstemon","students":"73,90,59,100"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c26"},"id":"16","userId":"48","schoolDistrict":"Cutleaf Daisy","students":"55,36,79,66"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c27"},"id":"17","userId":"45","schoolDistrict":"Creeping Sedge","students":"93,11,86,77"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c28"},"id":"18","userId":"33","schoolDistrict":"Soft Twinevine","students":"47,96,31,17"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c29"},"id":"19","userId":"26","schoolDistrict":"Cracked Lichen","students":"5,16,57,89"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c2a"},"id":"20","userId":"25","schoolDistrict":"Blue Wildrye","students":"48,97,19,42"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c2b"},"id":"21","userId":"20","schoolDistrict":"Common Screwpine","students":"38,46,56,27"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c2c"},"id":"22","userId":"19","schoolDistrict":"Silkyleaf Cinquefoil","students":"45,33,99,80"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c2d"},"id":"23","userId":"18","schoolDistrict":"Red Turtlehead","students":"69,49,9,28"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c2e"},"id":"24","userId":"7","schoolDistrict":"Dune Willow","students":"30,44,40,4"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c2f"},"id":"25","userId":"1","schoolDistrict":"Juniper Biscuitroot","students":"82,21,34,43"}
+{"_id":{"$oid":"5e684edeb376b01dd0a38c30"},"id":"","userId":null,"schoolDistrict":null,"students":null}

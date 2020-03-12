@@ -1,0 +1,27 @@
+_id,id,userId,schoolDistrict,students
+ObjectId("5e684edeb376b01dd0a38c17"),1,97,Fraser Meadow Garlic,10,64,74,72
+ObjectId("5e684edeb376b01dd0a38c18"),2,95,Simpson's Rosinweed,18,8,3,58
+ObjectId("5e684edeb376b01dd0a38c19"),3,94,Painted Milkvetch,67,24,29,85
+ObjectId("5e684edeb376b01dd0a38c1a"),4,93,Springflowering Goldenrod,41,65,68,70
+ObjectId("5e684edeb376b01dd0a38c1b"),5,90,Horsehair Lichen,71,95,75,23
+ObjectId("5e684edeb376b01dd0a38c1c"),6,87,Piedmont Bladderwort,35,6,87,76
+ObjectId("5e684edeb376b01dd0a38c1d"),7,85,Slender Buckwheat,26,32,25,60
+ObjectId("5e684edeb376b01dd0a38c1e"),8,84,Tropical Bristlegrass,81,84,83,20
+ObjectId("5e684edeb376b01dd0a38c1f"),9,80,Yellow Himalayan Raspberry,15,92,51,91
+ObjectId("5e684edeb376b01dd0a38c20"),10,76,Purple Locoweed,61,2,50,13
+ObjectId("5e684edeb376b01dd0a38c21"),11,74,Sneezeweed,14,12,98,53
+ObjectId("5e684edeb376b01dd0a38c22"),12,67,Racomitrium Moss,62,63,39,94
+ObjectId("5e684edeb376b01dd0a38c23"),13,66,California Greenbrier,22,7,1,78
+ObjectId("5e684edeb376b01dd0a38c24"),14,64,Slash Pine,52,88,37,54
+ObjectId("5e684edeb376b01dd0a38c25"),15,59,Azure Penstemon,73,90,59,100
+ObjectId("5e684edeb376b01dd0a38c26"),16,48,Cutleaf Daisy,55,36,79,66
+ObjectId("5e684edeb376b01dd0a38c27"),17,45,Creeping Sedge,93,11,86,77
+ObjectId("5e684edeb376b01dd0a38c28"),18,33,Soft Twinevine,47,96,31,17
+ObjectId("5e684edeb376b01dd0a38c29"),19,26,Cracked Lichen,5,16,57,89
+ObjectId("5e684edeb376b01dd0a38c2a"),20,25,Blue Wildrye,48,97,19,42
+ObjectId("5e684edeb376b01dd0a38c2b"),21,20,Common Screwpine,38,46,56,27
+ObjectId("5e684edeb376b01dd0a38c2c"),22,19,Silkyleaf Cinquefoil,45,33,99,80
+ObjectId("5e684edeb376b01dd0a38c2d"),23,18,Red Turtlehead,69,49,9,28
+ObjectId("5e684edeb376b01dd0a38c2e"),24,7,Dune Willow,30,44,40,4
+ObjectId("5e684edeb376b01dd0a38c2f"),25,1,Juniper Biscuitroot,82,21,34,43
+ObjectId("5e684edeb376b01dd0a38c30"),,,,

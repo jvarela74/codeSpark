@@ -5187,11 +5187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnv\\source\\repos\\codeSpark_ Utility\\codeSpark_Utility.csproj",
+      "projectUniqueName": "C:\\Users\\johnv\\Documents\\GitHub\\codeSpark\\codeSpark_ Utility\\codeSpark_Utility.csproj",
       "projectName": "codeSpark_Utility",
-      "projectPath": "C:\\Users\\johnv\\source\\repos\\codeSpark_ Utility\\codeSpark_Utility.csproj",
+      "projectPath": "C:\\Users\\johnv\\Documents\\GitHub\\codeSpark\\codeSpark_ Utility\\codeSpark_Utility.csproj",
       "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnv\\source\\repos\\codeSpark_ Utility\\obj\\",
+      "outputPath": "C:\\Users\\johnv\\Documents\\GitHub\\codeSpark\\codeSpark_ Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
