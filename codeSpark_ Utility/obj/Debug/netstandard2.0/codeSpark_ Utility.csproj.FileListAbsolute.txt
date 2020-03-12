@@ -1,0 +1,8 @@
+C:\Users\johnv\source\repos\codeSpark_ Utility\bin\Debug\netstandard2.0\codeSpark_ Utility.deps.json
+C:\Users\johnv\source\repos\codeSpark_ Utility\bin\Debug\netstandard2.0\codeSpark_ Utility.dll
+C:\Users\johnv\source\repos\codeSpark_ Utility\bin\Debug\netstandard2.0\codeSpark_ Utility.pdb
+C:\Users\johnv\source\repos\codeSpark_ Utility\obj\Debug\netstandard2.0\codeSpark_ Utility.csprojAssemblyReference.cache
+C:\Users\johnv\source\repos\codeSpark_ Utility\obj\Debug\netstandard2.0\codeSpark_ Utility.AssemblyInfoInputs.cache
+C:\Users\johnv\source\repos\codeSpark_ Utility\obj\Debug\netstandard2.0\codeSpark_ Utility.AssemblyInfo.cs
+C:\Users\johnv\source\repos\codeSpark_ Utility\obj\Debug\netstandard2.0\codeSpark_ Utility.dll
+C:\Users\johnv\source\repos\codeSpark_ Utility\obj\Debug\netstandard2.0\codeSpark_ Utility.pdb
